@@ -8,6 +8,7 @@ Fully developed terapi is still in progress, as we already used firebase as the 
 Only need to continue some modules and the app can be published
 
 
+
 Dev note : 18 September 2023
 
 //The app is currently still onhold, as we have several other project to prioritize
